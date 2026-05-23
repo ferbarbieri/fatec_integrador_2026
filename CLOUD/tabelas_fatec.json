@@ -1,0 +1,17 @@
+{
+  "tabelas": [
+    "avaliacoes",
+    "categorias",
+    "clientes",
+    "enderecos_clientes",
+    "entregas",
+    "itens_pedido",
+    "pagamentos",
+    "pedidos",
+    "produtos",
+    "produtos_promocoes",
+    "promocoes",
+    "subcategorias",
+    "vendedores"
+  ]
+}
